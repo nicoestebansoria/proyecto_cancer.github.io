@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/proyecto_cancer/static/css/main.e6c13ad2.css",
+    "main.js": "/proyecto_cancer/static/js/main.3860c6fd.js",
+    "static/js/453.46eb00ff.chunk.js": "/proyecto_cancer/static/js/453.46eb00ff.chunk.js",
+    "static/media/cuerpo.jpg": "/proyecto_cancer/static/media/cuerpo.db886cec3bf4bfe6536d.jpg",
+    "index.html": "/proyecto_cancer/index.html",
+    "main.e6c13ad2.css.map": "/proyecto_cancer/static/css/main.e6c13ad2.css.map",
+    "main.3860c6fd.js.map": "/proyecto_cancer/static/js/main.3860c6fd.js.map",
+    "453.46eb00ff.chunk.js.map": "/proyecto_cancer/static/js/453.46eb00ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3860c6fd.js"
+  ]
+}
