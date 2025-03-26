@@ -1,7 +1,7 @@
 {
   "name": "mapa-cuerpo-humano",
   "version": "0.1.0",
-  "homepage": "https://github.com/nicoestebansoria/proyecto_cancer.github.io",
+  "homepage": "https://nicoestebansoria.github.io/proyecto_cancer.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
